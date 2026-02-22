@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Sorting{
+public class Alphabetical{
 public static void main(String[] args){
 String[] names={"Jonthan","Clutchgod","Zgod","Neyoo","Admino","Spowerr","Manyaa","Godz","Wmax","Simpp"};
 
